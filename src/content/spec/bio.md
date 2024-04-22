@@ -1,0 +1,2 @@
+# Hi there... 👋
+Thanks for dropping by. I write both short and long tutorials on web development, mainly focusing on Laravel, Golang, JavaScript, Machine Learning & Deep Learning. Additionally, I share insights and reflections on various topics. Let’s dive into my journey!🐟
